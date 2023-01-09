@@ -1,0 +1,30 @@
+{
+  "name": "ascii-normalizer",
+  "version": "1.0.0",
+  "description": "Normalizes text based on common replacements.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theusaf/text-normalizer.git"
+  },
+  "keywords": [
+    "ascii",
+    "unicode",
+    "normalizer",
+    "utf8",
+    "text",
+    "replacement"
+  ],
+  "author": "theusaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theusaf/text-normalizer/issues"
+  },
+  "homepage": "https://github.com/theusaf/text-normalizer#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
